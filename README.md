@@ -1,0 +1,4 @@
+- Ứng dụng hiển thị danh sách User
+- Lấy dữ liệu từ Api có sẵn https://randomuser.me/api/
+- Build App trên retrofit2
+- Sử dụng mô hình MVVM và Dagger Hilt
